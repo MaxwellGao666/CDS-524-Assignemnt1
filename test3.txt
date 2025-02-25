@@ -1,0 +1,1 @@
+python d:/Assignment/524/test2.py --model_path D:/Assignment/524/trained_models/tetris_auto_1000.pt --num_episodes 20 
